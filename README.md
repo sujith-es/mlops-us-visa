@@ -30,7 +30,7 @@ conda config --set ssl_verify false
 ```
 
 ```bash
-conda create -n visa python=3.11 -y
+conda create -n visa python=3.12 -y
 ```
 
 ```bash
