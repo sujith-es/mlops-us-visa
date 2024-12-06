@@ -60,7 +60,7 @@ conda deactivate
 ### Export the  environment variable
 ```bash
 
-
+# export MONGODB_URL="mongodb+srv://sujithlearnearn:lkevaBQjv2sGmdy8@clusterus-visa.ca8l7.mongodb.net/?retryWrites=true&w=majority&appName=Clusterus-visa"
 export MONGODB_URL="mongodb+srv://<username>:<password>...."
 
 export AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID>
