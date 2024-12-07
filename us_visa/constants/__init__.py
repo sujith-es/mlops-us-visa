@@ -49,8 +49,6 @@ DATA_VALIDATION_DRIFT_REPORT_DIR: str = "drift_report"
 DATA_VALIDATION_DRIFT_REPORT_FILE_NAME: str = "report.yaml"
 
 
-
-
 """
 Data Transformation ralated constant start with DATA_TRANSFORMATION VAR NAME
 """
@@ -73,7 +71,7 @@ MODEL_TRAINER_MODEL_CONFIG_FILE_PATH: str = os.path.join("config", "model.yaml")
 MODEL EVALUATION related constant 
 """
 MODEL_EVALUATION_CHANGED_THRESHOLD_SCORE: float = 0.02
-MODEL_BUCKET_NAME = "usvisa-model2024"
+MODEL_BUCKET_NAME = "mlops-usvisa-model-2024-sujith"
 MODEL_PUSHER_S3_KEY = "model-registry"
 
 
